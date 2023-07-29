@@ -12,7 +12,6 @@ import java.io.IOException;
 import java.util.concurrent.Semaphore;
 import java.util.concurrent.TimeUnit;
 
-
 public class CrptApi {
     private final long timeInterval;    //интервал времени
     private final Semaphore semaphore;
